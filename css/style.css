@@ -30,15 +30,10 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
-}
-
-h2, h3, h4, h5, h6 {
-
-font-family: "Raleway", sans-serif;
-
 }
 
 /* Prelaoder */
@@ -91,7 +86,7 @@ font-family: "Raleway", sans-serif;
   display: table;
   width: 100%;
   height: 100vh;
-  background: url(https://image.ibb.co/m4odxR/hero_bg.jpg) top center fixed;
+  background: url(../img/hero-bg.jpg) top center fixed;
   background-size: cover;
 }
 
@@ -489,9 +484,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-container {
-  background: url(https://image.ibb.co/kNj1HR/about_img.jpg) left top no-repeat;
-  background-size:     contain; 
-	
+  background: url(../img/about-img.jpg) left top no-repeat;
+  background-size:     contain;
 }
 
 #about .about-content {
@@ -565,7 +559,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Subscribe Section
 --------------------------------*/
 #subscribe {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://image.ibb.co/gYjkcR/subscribe_bg.jpg) fixed center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/subscribe-bg.jpg) fixed center center;
   background-size: cover;
   padding: 80px 0;
 }
@@ -869,25 +863,3 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ccc;
 }
-
-
-
-/*.............................*/
-h1 {
- 
-  font-weight: 10px !important;
-  font-family: 'Great Vibes', cursive;
-  
-  text-transform: none !important;
-  color: white;
-  
-
-}
-
-
-#sss{
-font-family: 'Great Vibes', sans-serif;
-}
-
-
-
