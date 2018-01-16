@@ -29,7 +29,7 @@ p {
   margin: 0 0 30px 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, #kaa {
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -200,7 +200,7 @@ font-family: "Raleway", sans-serif;
   margin: 0;
   padding: 6px 0;
   line-height: 1;
-  font-family: 'Great Vibes', cursive;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -873,17 +873,22 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 /*.............................*/
-h1 {
+#kaa {
   
-  font-weight: 10px !important;
+  /*font-weight: 10px !important;
   font-family: 'Great Vibes', cursive;
   font-size:80px;
-  text-transform: none !important;
+  text-transform: none !important;*/
+  font-family: 'Great Vibes', cursive;
+  font-size:700%;
+  color: white;
+  
+
 }
 
 
 #sss{
-font-family: 'Great Vibes', cursive;
+font-family: 'Great Vibes', sans-serif;
 }
 
 
