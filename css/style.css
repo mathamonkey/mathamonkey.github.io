@@ -563,12 +563,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 #subscribe {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/subscribe-bg.jpg) fixed center center;
   background-size: cover;
-  padding: 80px 0;
+  padding: 40px 0;
 }
 
 #subscribe .subscribe-title {
   color: #fff;
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 700;
 }
 
@@ -888,6 +888,6 @@ font-size: 25px;
 
  #unq{
 
-  font-family: 'Pacifico', cursive;
-  font-size: 35px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 45px;
  }
