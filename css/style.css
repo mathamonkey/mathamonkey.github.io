@@ -168,13 +168,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-services {
-  border: 2px solid #fff;
+  background: #03C4EB;
+  border: 2px solid #03C4EB;
   color: #fff;
 }
 
 #hero .btn-services:hover {
-  background: #03C4EB;
-  border: 2px solid #03C4EB;
+  background: none;
+  border: 2px solid #fff;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------
@@ -572,6 +574,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #subscribe .subscribe-text {
   color: #fff;
+  font-size: 20px;
 }
 
 #subscribe .subscribe-btn-container {
@@ -863,3 +866,28 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ccc;
 }
+ #mankk{
+  padding-left: 10px;
+  padding-right: 10px;
+
+
+ }
+
+ #servant{
+text-align: center;
+font-size: 25px;
+
+
+ }
+
+ #charsmatic{
+  text-align: center;
+  font-size: 20px;
+
+ }
+
+ #unq{
+
+  font-family: 'Kalam';
+  font-size: 35px;
+ }

@@ -11,6 +11,12 @@ jQuery(document).ready(function( $ ) {
     separator: ",",
     speed: 3000
   });
+  $("#garg, #bush").Morphext({
+    animation: "flipInX",
+    separator: ",",
+    speed: 3000
+  });
+  
   
   // Initiate the wowjs
   new WOW().init();
