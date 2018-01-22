@@ -1,4 +1,4 @@
-
+/*
 jQuery(document).ready(function($) {
 "use strict";
 
@@ -99,4 +99,4 @@ jQuery(document).ready(function($) {
         return false;
     });
 
-});
+});*/
